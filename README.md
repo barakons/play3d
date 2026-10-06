@@ -3,6 +3,10 @@
 Interactive 3D visualization of Al-Falah School (Building A, 2 floors, 12 rooms).
 React + TypeScript + Vite + React Three Fiber + Drei + Zustand + Tailwind.
 
+![App layout](./docs/Screenshot%202026-10-06%20at%2015.57.56.png)
+![Search room result](./docs/Screenshot%202026-10-06%20at%2015.58.54.png)
+
+
 ## Run
 
 ```bash
